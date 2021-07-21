@@ -1,0 +1,23 @@
+
+* Variables: Es una forma de almacenar en memoria un dato, que luego va a ser usado
+
+
+* Strings: Son bloques de texto, que van siempre entre comillas simples o dobles
+
+
+* Funciones (argumentos, `return`): Función es un conjunto de instrucciones que realiza una tarea
+                                    determinada, tomando una entrada y devolviendo siempre una salida relacionada.
+
+                                    Argumento: Son los valores que se pasan entre paréntesis a la función cuando ésta es invocada.
+
+                                    Return: finaliza la ejecución de la función y especifica un valor para ser devuelto.
+
+
+* Declaraciones `if`: Se utilizan cuando tenemos una condición que nos arroja dos resultados, verdadero o falso. Si es verdadero, 
+                      ejecutará un bloque de código.git Si es falso, es posible ejecutar una o varias sentencias alternativas.
+
+
+
+* Valores booleanos (`true`, `false`): Se usan para almacenar información que admite sólo dos estados, verdadero o falso. 
+                                       Los valores verdaderos son todos salvo false , 0 , "" , null , undefined , y NaN.
+
