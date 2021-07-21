@@ -20,4 +20,5 @@
 
 * Valores booleanos (`true`, `false`): Se usan para almacenar información que admite sólo dos estados, verdadero o falso. 
                                        Los valores verdaderos son todos salvo false , 0 , "" , null , undefined , y NaN.
+                                       .
 
