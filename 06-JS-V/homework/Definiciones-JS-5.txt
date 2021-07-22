@@ -1,0 +1,9 @@
+
+* Prototype: Cada clase tiene una propiedad "prototype", que permite establecer un método una vez y dar acceso a múltiples objetos a esos métodos, 
+ahorrando elementos, tiempo de elaboración y memoria. Los métodos de prototype usan a la palabra clave this y siempre apuntará al 
+objeto a la izquierda del punto que lo está llamando (this.nombre).
+
+
+* Constructors (de Clases): Es una plantilla para la creación de objetos según un modelo predefinido. Comparte la misma funcionalidad 
+que los objetos normales, pero también se puede expandir mucho en funcionalidad. Son útiles para crear muchos objetos que comparten 
+algunas de las mismas propiedades y métodos.
