@@ -1,0 +1,4 @@
+
+* Callback: Es la capacidad de pasar una función como argumento a otra función y se invoca dentro de 
+la función externa para completar algún tipo de rutina o acción. Se usa "cb" como argumento para la 
+variable que se usará de callback (p. ej. function crearSaludo(usuario, cb)).
