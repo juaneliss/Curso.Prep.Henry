@@ -1,0 +1,9 @@
+
+* Arrays: Son como una variable múltiple donde podemos introducir varios valores y acceder a ellos de manera independiente. 
+Permiten organizar series de datos que comparten el mismo nombre pero se diferencian por un índice. 
+Pueden ser strings, números o booleanos. Se escribe en forma de lista, entre corchetes y los valores divididos por comas.
+
+
+
+
+
