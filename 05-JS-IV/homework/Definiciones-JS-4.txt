@@ -1,0 +1,20 @@
+
+* Objetos: Los objetos contienen mucha información sobre una sola cosa. Son una colección de propiedades. 
+ Los objetos se instancian usando llaves ({}).
+
+* Propiedades: Una propiedad es una asociación entre un nombre (o clave) y el valor. La clave (key) es el identificador y el valor (value) 
+es el valor que queremos guardar en esa clave. Los objetos pueden contener muchos pares de clave-valor, deben estar separados por una coma. 
+Los valores pueden ser cualquier tipo de dato de Javascript; cadena, número, booleano, matriz, función o incluso otro objeto
+
+* Métodos: Un metodo es una función, la cual es propiedad de un objeto. Los métodos sirven para hacer acciones como una ventana emergente, 
+modificar las propiedades de un objeto, añadir elementos a una lista, quitarlos, transformar un string en un número entero o decimal, etc.
+
+* Bucle for…in: Los objetos no contienen índices numéricos, así que el bucle estándar no funcionará en ellos. Se utiliza entonces un segundo 
+tipo de bucle llamado "For...in loop". Tiene una sintaxis ligeramente diferente, comienza igual pero entre paréntesis se declara una variable, 
+la palabra clave in y el nombre del objeto. Esto recorrerá cada clave del objeto y finalizará cuando se hayan iterado todas las claves.
+
+* Notación de puntos vs notación de corchetes: Para llamar al nombre del objeto y la clave hay dos formas diferentes, usando puntos o usando corchetes.
+Podemos llamar al nombre del objeto, un punto y el nombre de la clave (usuario.nombre). La notación de corchetes es como llamar a un elemento 
+en un array, debemos usar una cadena o número. Se puede llamar a cada clave envolviéndola con comillas, como un string.
+En general los corchetes se utilizan con variables y cuando el nombre de la propiedad contiene caracteres no permitidos en los identificadores, 
+como comenzar con un dígito, o contener espacio o guión.
