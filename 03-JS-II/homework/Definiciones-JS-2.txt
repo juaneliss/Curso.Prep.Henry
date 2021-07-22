@@ -1,0 +1,16 @@
+
+
+* FOR: Es un bucle que evalúa expresiones una y otra vez hasta que devuelve lo que estamos buscando o se detiene. 
+Tiene una sintaxis propia; primero escribimos el término for seguido de paréntesis. Tiene tres partes divididas
+por punto y coma. En la primera declaramos una variable, habitualmente un cero (i = 0).  Luego tendremos una expresión 
+condicional, el ciclo continuará sucediendo hasta que esta declaración sea false (i < TOTAL). En la última parte, (i++)
+incrementamos la variable para la próxima repetición hasta llegar al TOTAL.
+
+* &&: Es uno de los tres operadores lógicos, que combinan dos expresiones de igualdad y preguntan si alguna de las dos es 
+verdadera, ambas  o ninguna de las dos. El operador “Y” (AND)  evalúa  y devuelve verdadero si ambas expresiones son true. 
+Si una o ambas son falsas, devolverá false
+	
+* ||: El siguiente es el operador "Ó" ("OR"). Determinará si una de las expresiones es true. Devolverá true si una o ambas 
+son true. Devolverá false si ambas expresiones son false.
+
+* !: El último operador lógico es el operador "NOT" ("NO"). Devuelve el valor booleano opuesto al que se le pasa.
