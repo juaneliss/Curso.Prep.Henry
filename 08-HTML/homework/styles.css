@@ -1,0 +1,33 @@
+
+.divClass {
+    text-align: center
+}
+
+h1 {
+    color: red;
+    }   
+    
+img {
+    width: 400px;
+    }
+
+    #thirdDiv {
+        background-color: tan;
+        width: 600px;
+        height: 620px; 
+        padding: 50px;
+        border: 4px solid darkolivegreen;
+        margin-left: auto;
+        margin-right: auto;
+        display: flex;
+        align-items:center;
+        justify-content: center;
+        }
+
+    #spanId {
+        font-size: 18px
+        margin: 50px
+        }
+
+    }
+
